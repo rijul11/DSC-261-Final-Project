@@ -11,8 +11,4 @@ Notes :
 One Such result which will take a lot of time, is the comparision betweem BERT models. The sample results for this are - 
 
 
-model_name	                                                min_sentiment_score	        max_sentiment_score	        mean_sentiment_score	runtime
-0	distilbert-base-uncased-finetuned-sst-2-english	        0.502498	                0.999811	                0.976865	            81.685143
-1	roberta-large-mnli	                                    0.335916	                0.994299	                0.606306	            474.807743
-3	roberta-base	                                        0.516505	                0.537983	                0.529074	            151.841959
-2	bert-base-uncased	                                    0.500008	                0.552337	                0.509333	            155.868212
+<img width="645" alt="image" src="https://github.com/rijul11/DSC-261-Final-Project/assets/129983758/268f8d76-200b-4468-ab73-3a1771175205">
