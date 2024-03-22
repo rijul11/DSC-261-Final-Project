@@ -50,9 +50,10 @@ Dataset Licence : MIT License (https://github.com/yumoxu/stocknet-dataset?tab=MI
 <img width="792" alt="Screenshot 2024-03-21 at 9 50 56 PM" src="https://github.com/rijul11/DSC-261-Final-Project/assets/129983758/37fae608-d2ad-40b7-9c80-31a7351260a6">
 <img width="792" alt="Screenshot 2024-03-21 at 9 50 46 PM" src="https://github.com/rijul11/DSC-261-Final-Project/assets/129983758/e66bab3d-a48a-42a5-934b-90d741916cae">
 <img width="793" alt="Screenshot 2024-03-21 at 9 50 26 PM" src="https://github.com/rijul11/DSC-261-Final-Project/assets/129983758/45945b49-8da9-482b-a093-e0549d34b94b">
+![lime_result1]()
 
 ### LIME Sample Results - 
-
+<img width="792" alt="Lime Result" src="https://github.com/rijul11/DSC-261-Final-Project/assets/47653011/abaab0c9-0d02-473b-8e42-ca70ec666a53">
 
 
 
